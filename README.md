@@ -1,2 +1,2 @@
 # AltkomRepo
-Repository during Altkom Github training
+Repository during Altkom Github training.
